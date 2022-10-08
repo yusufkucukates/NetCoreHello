@@ -1,1 +1,1 @@
-# NetCoreHello
+# NewNetCore
